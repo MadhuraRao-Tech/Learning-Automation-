@@ -1,6 +1,7 @@
 name=input("Enter your  Name:--")
 age= input("Enter  your Age:--")
 # print(age.isdigit())
+# Adding from  GitHub
 if age.isdigit():
     if int(age)>=18: #Adult scenario
         print(f"hey {name} you  are  adult")
