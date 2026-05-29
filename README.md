@@ -14,3 +14,6 @@ This repository tracks my daily progress in learning.
 	- isdigit()
 	- commenting in python
 	- if statement
+### Day4
+#### Git 
+	- Leanring changes from GitHub
